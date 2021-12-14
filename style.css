@@ -1,7 +1,7 @@
 .jumbotron {
   background-image: url(img/bg.jpg);
   background-size: cover;
-  height: 400px;
+  height: 500px;
   background-size: cover;
   color: #fff;
 }
@@ -9,6 +9,10 @@
 .jumbotron h1 {
   margin: 0 40px;
   text-shadow: 5px 5px 10px black;
+}
+
+.text-jumbotron {
+  margin-top: 7rem;
 }
 
 .col-md-4 {
@@ -57,4 +61,12 @@
 .tim a {
   color: #fff;
   text-decoration: none;
+}
+
+h2 {
+  margin-top: 5rem;
+}
+
+#topik {
+  background-color: #21adbe;
 }
