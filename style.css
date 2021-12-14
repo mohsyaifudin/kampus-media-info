@@ -1,0 +1,12 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-image: url(img/bg.jpg);
+  height: 600px;
+  background-size: cover;
+  color: aliceblue;
+}
+
+.jumbotron h1 {
+  margin: 0 40px;
+  margin-top: 70px;
+}
