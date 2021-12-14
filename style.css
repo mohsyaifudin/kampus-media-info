@@ -1,12 +1,60 @@
 .jumbotron {
-  padding: 2rem 1rem;
   background-image: url(img/bg.jpg);
-  height: 600px;
   background-size: cover;
-  color: aliceblue;
+  height: 400px;
+  background-size: cover;
+  color: #fff;
 }
 
 .jumbotron h1 {
   margin: 0 40px;
-  margin-top: 70px;
+  text-shadow: 5px 5px 10px black;
+}
+
+.col-md-4 {
+  margin-top: 1rem;
+}
+
+.instagram:hover {
+  background-color: #125688;
+  color: #fff;
+}
+
+.twitter:hover {
+  background-color: #55acee;
+  color: #fff;
+}
+
+.tiktok:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.facebook:hover {
+  background-color: #3b5998;
+  color: #fff;
+}
+
+.youtube:hover {
+  background-color: #bb0000;
+  color: #fff;
+}
+
+.linkedin a {
+  text-decoration: none;
+}
+.tim {
+  background-color: #21adbe;
+  text-align: center;
+}
+
+.tim p {
+  color: #fff;
+  text-decoration: none;
+  padding: 1.5rem;
+}
+
+.tim a {
+  color: #fff;
+  text-decoration: none;
 }
