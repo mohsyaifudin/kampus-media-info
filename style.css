@@ -64,9 +64,13 @@
 }
 
 h2 {
-  margin-top: 5rem;
+  margin-top: 0;
+}
+
+.topik {
+  background-color: #21adbe;
 }
 
 #topik {
-  background-color: #21adbe;
+  color: #fff;
 }
