@@ -20,7 +20,7 @@
 }
 
 .instagram:hover {
-  background-color: #125688;
+  background-color: #b02e8e;
   color: #fff;
 }
 
@@ -71,6 +71,14 @@ h2 {
   background-color: #21adbe;
 }
 
-#topik {
-  color: #fff;
+#topik p {
+  color: rgb(0, 0, 0);
+}
+
+#topik h2 {
+  color: rgb(255, 255, 255);
+}
+
+section {
+  scroll-margin-top: 100px;
 }
